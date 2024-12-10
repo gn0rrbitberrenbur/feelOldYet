@@ -6,7 +6,7 @@ A couple of days I came across this cartoon:
 ![xkcd number 891, wich explains how to make people feel older based on movies](https://imgs.xkcd.com/comics/movie_ages.png)
 > Image is from the XKCD-webcomic. Source: https://xkcd.com/891
 
-I thought it would be funny to have this as an actual program, so I spend (propably too much) some time implementing the "algorithm" in python. I did this mostly as some kind of exercise to become more familiar with python.
+I thought it would be funny to have this as an actual program, so I spend (propably too much) some time implementing the "algorithm" in python. I did this mostly as some kind of exercise to become more familiar with python. I took the basic idea and enhanced it a bit by randomizing the "age-range" so you can get several movies for your age "recommended". also the max-age is far beyond 35, so show this to your grandparents to make them feel old.
 
 # 📒 learnings
 
