@@ -1,0 +1,418 @@
+[
+    {
+        "jahr": 1920,
+        "film": "The Cabinet of Dr. Caligari"
+    },
+    {
+        "jahr": 1921,
+        "film": "The Kid"
+    },
+    {
+        "jahr": 1922,
+        "film": "Nosferatu"
+    },
+    {
+        "jahr": 1923,
+        "film": "Safety Last!"
+    },
+    {
+        "jahr": 1924,
+        "film": "Greed"
+    },
+    {
+        "jahr": 1925,
+        "film": "The Phantom of the Opera"
+    },
+    {
+        "jahr": 1926,
+        "film": "The General"
+    },
+    {
+        "jahr": 1927,
+        "film": "Metropolis"
+    },
+    {
+        "jahr": 1928,
+        "film": "The Passion of Joan of Arc"
+    },
+    {
+        "jahr": 1929,
+        "film": "The Jazz Singer"
+    },
+    {
+        "jahr": 1930,
+        "film": "All Quiet on the Western Front"
+    },
+    {
+        "jahr": 1931,
+        "film": "Frankenstein"
+    },
+    {
+        "jahr": 1932,
+        "film": "Scarface"
+    },
+    {
+        "jahr": 1933,
+        "film": "King Kong"
+    },
+    {
+        "jahr": 1934,
+        "film": "It Happened One Night"
+    },
+    {
+        "jahr": 1935,
+        "film": "Bringing Up Baby"
+    },
+    {
+        "jahr": 1936,
+        "film": "Modern Times"
+    },
+    {
+        "jahr": 1937,
+        "film": "Snow White and the Seven Dwarfs"
+    },
+    {
+        "jahr": 1938,
+        "film": "The Adventures of Robin Hood"
+    },
+    {
+        "jahr": 1939,
+        "film": "Gone with the Wind"
+    },
+    {
+        "jahr": 1940,
+        "film": "The Grapes of Wrath"
+    },
+    {
+        "jahr": 1941,
+        "film": "Citizen Kane"
+    },
+    {
+        "jahr": 1942,
+        "film": "Casablanca"
+    },
+    {
+        "jahr": 1943,
+        "film": "Shadow of a Doubt"
+    },
+    {
+        "jahr": 1944,
+        "film": "Double Indemnity"
+    },
+    {
+        "jahr": 1945,
+        "film": "Mildred Pierce"
+    },
+    {
+        "jahr": 1946,
+        "film": "It's a Wonderful Life"
+    },
+    {
+        "jahr": 1947,
+        "film": "Miracle on 34th Street"
+    },
+    {
+        "jahr": 1948,
+        "film": "The Treasure of the Sierra Madre"
+    },
+    {
+        "jahr": 1949,
+        "film": "The Third Man"
+    },
+    {
+        "jahr": 1950,
+        "film": "Sunset Boulevard"
+    },
+    {
+        "jahr": 1951,
+        "film": "A Streetcar Named Desire"
+    },
+    {
+        "jahr": 1952,
+        "film": "Singin' in the Rain"
+    },
+    {
+        "jahr": 1953,
+        "film": "Shane"
+    },
+    {
+        "jahr": 1954,
+        "film": "Rear Window"
+    },
+    {
+        "jahr": 1955,
+        "film": "The Seven Year Itch"
+    },
+    {
+        "jahr": 1956,
+        "film": "The Ten Commandments"
+    },
+    {
+        "jahr": 1957,
+        "film": "12 Angry Men"
+    },
+    {
+        "jahr": 1958,
+        "film": "Vertigo"
+    },
+    {
+        "jahr": 1959,
+        "film": "Ben-Hur"
+    },
+    {
+        "jahr": 1960,
+        "film": "Psycho"
+    },
+    {
+        "jahr": 1961,
+        "film": "West Side Story"
+    },
+    {
+        "jahr": 1962,
+        "film": "Lawrence of Arabia"
+    },
+    {
+        "jahr": 1963,
+        "film": "The Great Escape"
+    },
+    {
+        "jahr": 1964,
+        "film": "My Fair Lady"
+    },
+    {
+        "jahr": 1965,
+        "film": "The Sound of Music"
+    },
+    {
+        "jahr": 1966,
+        "film": "The Good, the Bad and the Ugly"
+    },
+    {
+        "jahr": 1967,
+        "film": "The Graduate"
+    },
+    {
+        "jahr": 1968,
+        "film": "2001: A Space Odyssey"
+    },
+    {
+        "jahr": 1969,
+        "film": "Easy Rider"
+    },
+    {
+        "jahr": 1970,
+        "film": "Patton"
+    },
+    {
+        "jahr": 1971,
+        "film": "A Clockwork Orange"
+    },
+    {
+        "jahr": 1972,
+        "film": "The Godfather"
+    },
+    {
+        "jahr": 1973,
+        "film": "The Exorcist"
+    },
+    {
+        "jahr": 1974,
+        "film": "Chinatown"
+    },
+    {
+        "jahr": 1975,
+        "film": "Jaws"
+    },
+    {
+        "jahr": 1976,
+        "film": "Taxi Driver"
+    },
+    {
+        "jahr": 1977,
+        "film": "Star Wars: Episode IV - A New Hope"
+    },
+    {
+        "jahr": 1978,
+        "film": "Grease"
+    },
+    {
+        "jahr": 1979,
+        "film": "Apocalypse Now"
+    },
+    {
+        "jahr": 1980,
+        "film": "The Shining"
+    },
+    {
+        "jahr": 1981,
+        "film": "Raiders of the Lost Ark"
+    },
+    {
+        "jahr": 1982,
+        "film": "E.T. the Extra-Terrestrial"
+    },
+    {
+        "jahr": 1983,
+        "film": "Scarface"
+    },
+    {
+        "jahr": 1984,
+        "film": "The Terminator"
+    },
+    {
+        "jahr": 1985,
+        "film": "Back to the Future"
+    },
+    {
+        "jahr": 1986,
+        "film": "Top Gun"
+    },
+    {
+        "jahr": 1987,
+        "film": "The Untouchables"
+    },
+    {
+        "jahr": 1988,
+        "film": "Die Hard"
+    },
+    {
+        "jahr": 1989,
+        "film": "The Little Mermaid"
+    },
+    {
+        "jahr": 1990,
+        "film": "Home Alone"
+    },
+    {
+        "jahr": 1991,
+        "film": "Terminator 2"
+    },
+    {
+        "jahr": 1992,
+        "film": "Unforgiven"
+    },
+    {
+        "jahr": 1993,
+        "film": "Jurassic Park"
+    },
+    {
+        "jahr": 1994,
+        "film": "Lion King"
+    },
+    {
+        "jahr": 1995,
+        "film": "Toy Story"
+    },
+    {
+        "jahr": 1996,
+        "film": "The English Patient"
+    },
+    {
+        "jahr": 1997,
+        "film": "Titanic"
+    },
+    {
+        "jahr": 1998,
+        "film": "Saving Private Ryan"
+    },
+    {
+        "jahr": 1999,
+        "film": "The Matrix"
+    },
+    {
+        "jahr": 2000,
+        "film": "Gladiator"
+    },
+    {
+        "jahr": 2001,
+        "film": "Shrek"
+    },
+    {
+        "jahr": 2002,
+        "film": "The Pianist"
+    },
+    {
+        "jahr": 2003,
+        "film": "Finding Nemo"
+    },
+    {
+        "jahr": 2004,
+        "film": "Million Dollar Baby"
+    },
+    {
+        "jahr": 2005,
+        "film": "Star Wars: Episode III: Revenge of the Sith"
+    },
+    {
+        "jahr": 2006,
+        "film": "Snakes on a Plane"
+    },
+    {
+        "jahr": 2007,
+        "film": "No Country for Old Men"
+    },
+    {
+        "jahr": 2008,
+        "film": "The Dark Knight"
+    },
+    {
+        "jahr": 2009,
+        "film": "Avatar"
+    },
+    {
+        "jahr": 2010,
+        "film": "Inception"
+    },
+    {
+        "jahr": 2011,
+        "film": "The Artist"
+    },
+    {
+        "jahr": 2012,
+        "film": "Argo"
+    },
+    {
+        "jahr": 2013,
+        "film": "12 Years a Slave"
+    },
+    {
+        "jahr": 2014,
+        "film": "Birdman"
+    },
+    {
+        "jahr": 2015,
+        "film": "Spotlight"
+    },
+    {
+        "jahr": 2016,
+        "film": "La La Land"
+    },
+    {
+        "jahr": 2017,
+        "film": "The Shape of Water"
+    },
+    {
+        "jahr": 2018,
+        "film": "Green Book"
+    },
+    {
+        "jahr": 2019,
+        "film": "Parasite"
+    },
+    {
+        "jahr": 2020,
+        "film": "Nomadland"
+    },
+    {
+        "jahr": 2021,
+        "film": "Dune"
+    },
+    {
+        "jahr": 2022,
+        "film": "Avatar: The Way of Water"
+    },
+    {
+        "jahr": 2023,
+        "film": "Barbie"
+    }
+]
